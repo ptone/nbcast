@@ -32,6 +32,9 @@ a slightly different context, etc.
 How to run the demo:
 --------------------
 
+**This requires the current development version of IPython - it will not work
+with the current 13.1 release**
+
 clone or download this repo and from the repo directory (assuming you have
 ipython setup)::
 
