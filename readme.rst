@@ -1,6 +1,13 @@
 Creating an interactive screencast with IPython notebooks and popcorn.js
 ========================================================================
 
+Demo:
+https://www.youtube.com/watch?v=LkpU9Ikpyew
+
+Note: this concept was hence carried farther with:
+https://github.com/wolever/browsercast
+
+
 I wanted to try mashing up a couple technologies I've been experimenting with
 recently. `IPython notebooks`_, and `popcorn.js`_.
 
